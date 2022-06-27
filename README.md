@@ -20,7 +20,8 @@ from numpy.random import seed
 ## Observations
 The models were tested on three windows of data: 1 day, 5 days, and 10 days.
 
-![actual_vc_predictedCP1](../Images/actual_vc_predictedCP1.png)![actual_vc_predictedfng1](../Images/actual_vc_predictedfng1.png)
+![actual_vc_predictedCP1](../Images/actual_vc_predictedCP1.png)
+![actual_vc_predictedfng1](../Images/actual_vc_predictedfng1.png)
 ![actual_vc_predictedCP5](../Images/actual_vc_predictedCP5.png)![actual_vc_predictedfng5](../Images/actual_vc_predictedfng5.png)
 ![actual_vc_predictedCP10](../Images/actual_vc_predictedCP10.png)![actual_vc_predictedfng10](../Images/actual_vc_predictedfng10.png)
 
