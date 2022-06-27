@@ -6,14 +6,14 @@
 --------
 
 ## Technologies and Installation Guide
-import numpy as np
-import pandas as pd
-import hvplot.pandas
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense, Dropout
-from sklearn.preprocessing import MinMaxScaler
-from tensorflow import random
-from numpy.random import seed
+### import numpy as np
+### import pandas as pd
+### import hvplot.pandas
+### from tensorflow.keras.models import Sequential
+### from tensorflow.keras.layers import LSTM, Dense, Dropout
+### from sklearn.preprocessing import MinMaxScaler
+### from tensorflow import random
+### from numpy.random import seed
 
 
 
@@ -29,20 +29,20 @@ The models were tested on three windows of data: 1 day, 5 days, and 10 days.
 
 
 
-### Conclusions ###
+## Conclusions ##
 
 
-Which model has a lower loss?
-The model with the lower loss is the closing prices predictor
+### Which model has a lower loss? ###
+ The model with the lower loss is the closing prices predictor. 
 
-Which model tracks the actual values better over time?
-The model with better results over time is the closing prices predictor
+### Which model tracks the actual values better over time? ###
+The model with better results over time is the closing prices predictor. 
 
 
-Which window size works best for the model?
-The window size that works better is 1
+### Which window size works best for the model? ###
+The window size that works better is 1 day. 
 
-## Contributors##
+## Contributors ##
 
 By: Roy Booker
 
